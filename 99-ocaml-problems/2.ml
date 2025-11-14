@@ -16,4 +16,6 @@ let rec last_two  = function
 
 
 
-  (* Solution says to use 'Some' and 'None' - the solution I made above works but does not use optionals *)
+  (* Solution says to use 'Some' and 'None' - the solution I made above works but does not use optionals 
+     I need to start paying attention to the types it defines
+  *)
